@@ -1,7 +1,7 @@
 {
-  "name": "vercel-xhttp-relay",
-  "version": "1.0.0",
-  "description": "Edge-runtime XHTTP relay for Xray/V2Ray on Vercel",
+  "name": "fast-go",
+  "version": "0.1.0",
+  "description": "fast-go",
   "private": true,
   "license": "MIT"
 }
